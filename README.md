@@ -7,7 +7,7 @@
     - React
     - Node JS
     - Express JS
-    - Bases de datos
+    - MySQL
 - 📫 How to reach me: ubis.blanca@gmail.com, [@blaumart87 on Twitter](https://twitter.com/blaumart87)
 
 <!---
