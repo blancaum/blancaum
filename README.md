@@ -5,8 +5,9 @@
     - CSS
     - JavaScript
     - React
-    - NodeJS
-    - Express
+    - Node JS
+    - Express JS
+    - Bases de datos
 - 📫 How to reach me: ubis.blanca@gmail.com, [@blaumart87 on Twitter](https://twitter.com/blaumart87)
 
 <!---
