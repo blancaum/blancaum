@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @blancaum.
 - 👀 I’m interested in Front End and Back End.
-- 🌱 I’m currently learning web development with HTML, CSS, JavaScript, React and NodeJS on [Adalab](https://adalab.es/).
+- 🌱 I’m currently learning web development on [Adalab](https://adalab.es/) with:
+    - HTML
+    - CSS
+    - JavaScript
+    - React
+    - NodeJS
+    - Express
 - 📫 How to reach me: ubis.blanca@gmail.com, [@blaumart87 on Twitter](https://twitter.com/blaumart87)
 
 <!---
