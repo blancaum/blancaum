@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blancaum.
 - 👀 I’m interested in Front End and Back End.
-- 🌱 I’m currently learning web development on [Adalab](https://adalab.es/) with:
+- 🌱 I have learned web development on [Adalab](https://adalab.es/) with:
     - HTML
     - CSS
     - JavaScript
