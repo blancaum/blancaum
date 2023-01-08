@@ -3,7 +3,7 @@
 ### I am a curious and fast learner, a creative problem solver that is always up for a challenge. 
 
 - Since I studied Engineering I have always been interested in tech. My recent studies in Web development have allowed me to update my knowledge and become prepared to further my journey.
-- Previously I worked as tech support and software administrator for almost 10 years, which provided me with a disposition to help others, to always communicate and work on a team and to find creative ways to solve all types of problems.
+- I worked as tech support and software administrator for almost 10 years, which has provided me with a disposition to help others, to always communicate and work as a team and to find creative ways to solve all types of problems.
 
 ## 👩‍💻 Education & interests
 
