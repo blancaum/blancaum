@@ -5,7 +5,7 @@
 - Since I studied Engineering I have always been interested in tech. My recent studies in Web development have allowed me to update my knowledge and become prepared to further my journey into this path.
 - Previously I worked as tech support and software administrator, which provided me with a disposition to help others, to always communicate and work on a team and to find creative ways to solve all types of problems.
 
-## Education & interests
+## 👩‍💻 Education & interests
 
 - 👀 I’m interested in Front End and Back End.
 - 🎓 I studied a Bachelor of Telecommunications Engineering (I learned to program in Pascal).
@@ -23,6 +23,11 @@
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## Nowadays...
+
+- 🚀 I'm looking for a job as a junior web developer (front, back or full stack).
+- 📚 I'm currently increasing my knowledge in React, APIs and starting to learn Wordpress. 
 
 ## 📫 How to reach me:
 <div id="badges">
