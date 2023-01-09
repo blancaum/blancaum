@@ -8,12 +8,14 @@
 - I worked as tech support and software administrator for almost 10 years, which has provided me with a disposition to help others, to always communicate and work as a team and to find creative ways to solve all types of problems.
 
 <a href="https://lottiefiles.com/63487-programming-computer"> <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/13077932/211225619-5c8360c1-5012-4e02-b9f4-8422750c30e3.gif"> </a>
-## 👩‍💻 Education & interests
+## 🎒 Education & interests
 
 - 👀 I’m interested in Front End and Back End.
 - 🎓 I studied a Bachelor of Telecommunications Engineering (I learned to program in Pascal).
 - 💾 I have used a variety of programming languages: Pascal, Matlab, Java, C++, C#, Visual Basic .NET, VBA...
-- 🌱 I have learned web development on [Adalab](https://adalab.es/) with:
+- 🌱 I have learned web development on [Adalab](https://adalab.es/).
+
+## 👩‍💻 Tech skills
 
 ![https://github-readme-stats.vercel.app/api?username=marocena26&show_icons=true&theme=transparent](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
