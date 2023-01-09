@@ -1,6 +1,5 @@
-<p align="center">
-<img width="300" height="300" src="https://user-images.githubusercontent.com/13077932/211225619-5c8360c1-5012-4e02-b9f4-8422750c30e3.gif">
-</p>
+<a href="https://lottiefiles.com/94056-development"> <img align="left" width="300" height="300" src="https://user-images.githubusercontent.com/13077932/211225964-45cc58e0-9331-4f9b-b6b3-e2d422ae123c.gif"> </a>
+## 👩‍💻 Education & interests
 
 # 👋 Hi, I’m Blanca Ubis Martínez.
 
@@ -9,6 +8,7 @@
 - Since I studied Engineering I have always been interested in tech. My recent studies in Web development have allowed me to update my knowledge and become prepared to further my journey.
 - I worked as tech support and software administrator for almost 10 years, which has provided me with a disposition to help others, to always communicate and work as a team and to find creative ways to solve all types of problems.
 
+<a href="https://lottiefiles.com/63487-programming-computer"> <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/13077932/211225619-5c8360c1-5012-4e02-b9f4-8422750c30e3.gif"> </a>
 ## 👩‍💻 Education & interests
 
 - 👀 I’m interested in Front End and Back End.
