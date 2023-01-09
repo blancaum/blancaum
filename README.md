@@ -1,5 +1,4 @@
 <a href="https://lottiefiles.com/94056-development"> <img align="left" width="300" height="300" src="https://user-images.githubusercontent.com/13077932/211225964-45cc58e0-9331-4f9b-b6b3-e2d422ae123c.gif"> </a>
-## 👩‍💻 Education & interests
 
 # 👋 Hi, I’m Blanca Ubis Martínez.
 
