@@ -28,10 +28,11 @@
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+<a href="https://lottiefiles.com/63258-career-animation"> <img align="left" width="250" height="250" src="https://user-images.githubusercontent.com/13077932/211226595-76e09a76-eaff-4ac8-bff8-9a0feab99f12.gif"> </a>
 ## ⏰ Currently...
 
-- 🚀 I'm looking for a job as a junior web developer (front, back or full stack).
-- 📚 I'm currently increasing my knowledge in React, APIs and starting to learn Wordpress. 
+#### 🚀 I'm *looking for a job* as a junior web developer (front, back or full stack).
+#### 📚 I'm currently increasing my knowledge in *React* and starting to learn *Wordpress*. 
 
 ## 📫 How to reach me:
 <div id="badges">
