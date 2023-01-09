@@ -1,3 +1,7 @@
+<p align="center">
+<img width="300" height="300" src="https://user-images.githubusercontent.com/13077932/211225619-5c8360c1-5012-4e02-b9f4-8422750c30e3.gif">
+</p>
+
 # 👋 Hi, I’m Blanca Ubis Martínez.
 
 ### I am a curious and fast learner, a creative problem solver that is always up for a challenge. 
