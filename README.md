@@ -34,7 +34,7 @@
 ## ⏰ Currently...
 
 #### 🚀 I'm *looking for a job* as a junior web developer (front, back or full stack).
-#### 📚 I'm currently increasing my knowledge in *React* and starting to learn *Wordpress*. 
+#### 📚 I'm currently increasing my knowledge in *JavaScript* and starting to learn *Wordpress*. 
 
 ## 📫 How to reach me:
 <div id="badges">
