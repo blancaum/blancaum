@@ -4,8 +4,9 @@
 
 ### I am a curious and fast learner, a creative problem solver that is always up for a challenge. 
 
-- Since I studied Engineering I have always been interested in tech. My recent studies in Web development have allowed me to update my knowledge and become prepared to further my journey.
-- I worked as tech support and software administrator for almost 10 years, which has provided me with a disposition to help others, to always communicate and work as a team and to find creative ways to solve all types of problems.
+- I worked as **tech support** and **software administrator** for almost **10 years**, which provided me with a disposition to **help others**, **communication** and **teamwork** skills, as well as the ability to find **creative** ways to **solve** all types of **problems**. Also, I had the chance to **code** small **in-house apps**, which confirmed the love of programming that started when I studied **engineering**.
+- Additionaly, I studied a **master's degree in Game Design**, which gave me the opportunity to **publish a video game** on **PlayStation** and **Steam** and allowed me to continue developing my passion for coding.
+- All of this has culminated in my recent studies in **Web Development**, which have provided me with the tools to redirect my career path and have opened the door to finding work in something that I truly love: **programming**.
 
 <a href="https://lottiefiles.com/63487-programming-computer"> <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/13077932/211225619-5c8360c1-5012-4e02-b9f4-8422750c30e3.gif"> </a>
 ## 🎒 Education & interests
