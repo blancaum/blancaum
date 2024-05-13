@@ -34,8 +34,8 @@
 <a href="https://lottiefiles.com/63258-career-animation"> <img align="left" width="250" height="250" src="https://user-images.githubusercontent.com/13077932/211226595-76e09a76-eaff-4ac8-bff8-9a0feab99f12.gif"> </a>
 ## ⏰ Currently...
 
-#### 🚀 I'm *looking for a job* as a junior web developer (front, back or full stack).
-#### 📚 I'm currently increasing my knowledge in *JavaScript* and starting to learn *Wordpress*. 
+#### 🚀 I'm working as a Front End Developer since March 2023.
+#### 📚 I'm currently increasing my knowledge in *JavaScript*. 
 
 ## 📫 How to reach me:
 <div id="badges">
